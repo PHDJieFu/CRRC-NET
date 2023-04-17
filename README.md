@@ -28,7 +28,7 @@ You can set up the environments by using `$ pip3 install -r requirements.txt`.
     - For convenience, we provide the features we used. You can find them [here](https://drive.google.com/file/d/1NqaDRo782bGZKo662I0rI_cvpDT67VQU/view?usp=sharing).
 
 3. Download all '.pckl' files
-    - All our utilized '.pckl' files can be downloaded at [pckl files](https://drive.google.com/drive/u/0/folders/1saiY1gDgUATO5cs69EEUtShCKD2J6mSS)
+    - All our utilized '.pckl' files can be downloaded at [pckl files](https://drive.google.com/drive/u/0/folders/1saiY1gDgUATO5cs69EEUtShCKD2J6mSS).
 
 4. Place the features inside the `dataset` folder.
     - Please ensure the data structure is as below.
