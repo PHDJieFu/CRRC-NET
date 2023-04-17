@@ -83,14 +83,12 @@ $ bash run_eval.sh
 ~~~~
 
 ## References
-We note that this repo was built upon our previous models.
-* Background Suppression Network for Weakly-supervised Temporal Action Localization (AAAI 2020) [[paper](https://arxiv.org/abs/1911.09963)] [[code](https://github.com/Pilhyeon/BaSNet-pytorch)]
+This repo was built upon some previous methods.
 * Weakly-supervised Temporal Action Localization by Uncertainty Modeling (AAAI 2021) [[paper](https://arxiv.org/abs/2006.07006)] [[code](https://github.com/Pilhyeon/WTAL-Uncertainty-Modeling)]
 * Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization [[paper](https://arxiv.org/abs/2108.05029)] [[code](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)]
 
 We referenced the repos below for the code.
 
-* [STPN](https://github.com/bellos1203/STPN)
 * [SF-Net](https://github.com/Flowerfan/SF-Net)
 * [LAC](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)
 * [ActivityNet](https://github.com/activitynet/ActivityNet)
